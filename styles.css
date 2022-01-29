@@ -1,0 +1,107 @@
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+header {
+    background-image: url(./images/pic_1.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+}
+a:hover {
+    color: #C271FF !important;
+}
+
+figcaption p{
+    font-size: 10px;
+}
+.p-5 {
+    padding: 5rem !important;
+}
+
+p {
+    margin-top: none !important;
+    margin-bottom: 0 !important;
+}
+
+:root {
+    --font: 
+}
+/* HOMEPAGE */
+
+.tagline {
+    color: #C271FF;
+}
+
+
+.schooled {
+    font-size: 4em;
+}
+
+.learn {
+    padding-top: 9em;
+}
+
+/* BUTTONS */
+
+.btn {
+    font-size: 10px !important;
+}
+.btn-danger {
+    background-color: #C271FF !important;
+    border: none !important;
+}
+.btn .btn-danger:hover .btn-danger:active {
+    opacity: 0.9 !important
+}
+.btn a {
+    color: white !important;
+}
+
+/* PRICING */
+
+.what {
+    font-size: 2em;
+}
+
+/* VIDEO TUTORIALS */
+
+.lc {
+    margin-right: 6.5rem !important;
+    margin-left: 8rem !important;
+}
+
+/* FOOTER
+======== */
+
+.social-icons ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding: 0 !important;
+}
+.social-icon {
+    font-size: 25px;
+}
+/* PRICING GRID
+======= */
+
+.t_h {
+    width: 33%;
+}
+th {
+    font-size: 12px !important;
+}
+
+/* COURSES */
+
+.dont {
+    font-size: 2em !important;
+    padding-left: 45vh;
+    padding-right: 45vh;
+}
+input::placeholder {
+    color: white !important;
+    opacity: 0.5 !important;
+}
