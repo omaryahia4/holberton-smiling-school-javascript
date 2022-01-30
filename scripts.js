@@ -23,7 +23,6 @@ $(document).ready(function() {
                     </div>
                 </div>
                 `);
-                
                 $('#carousel-inner').append(html);
                 $('#carousel-inner1').append(html);
             }
