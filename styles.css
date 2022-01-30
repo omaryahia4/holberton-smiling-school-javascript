@@ -114,7 +114,11 @@ input::placeholder {
     color: white !important;
     opacity: 0.5 !important;
 }
-
+#latest-videos-cards {
+    padding-left: 7rem;
+    padding-right: 7rem;
+    padding-bottom: 2rem;
+}
 /* LOADER */
 
 .loader {
