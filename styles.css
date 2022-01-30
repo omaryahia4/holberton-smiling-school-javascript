@@ -43,7 +43,16 @@ p {
 .learn {
     padding-top: 9em;
 }
-
+.quote {
+    position: relative;
+    margin-left: 22.5em!important;
+    bottom: 4rem;
+}
+.quote-image {
+    position: relative;
+    left: 12rem;
+    top: 3rem;
+}
 /* BUTTONS */
 
 .btn {
